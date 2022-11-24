@@ -1,1 +1,1 @@
-web: node . --db "mongodb+srv://papahchan:papah123@cluster0.u92rbcl.mongodb.net/?retryWrites=true&w=majority"
+worker: npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
