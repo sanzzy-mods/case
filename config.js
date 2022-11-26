@@ -1,7 +1,7 @@
 /**
    * Create By Dika Ardnt.
    * Recode By Naze Dev && Papah-Chan
-   * Contact Me on wa.me/6282287219167
+   * Contact Me on wa.me/6282197210183
    * Follow https://github.com/FahriAdison
 */
 
@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285172446692']
-global.ownernomer = "6285172446692"
-global.premium = ['6285172446692']
+global.owner = ['6282197210183']
+global.ownernomer = "6282197210183"
+global.premium = ['628819541553']
 global.packname = 'Sticker By'
 global.author = 'Sad-Bot'
 global.sessionName = 'session'  //jangan diganti bro nanti error
@@ -65,9 +65,9 @@ global.myytv = ''
 global.mygc = ""
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'SAD BOT'
-global.akulaku = 'Bot By Papah'
-global.ytname = 'YT PAPAH' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
+global.botname = 'Ditzz Botzz'
+global.akulaku = 'Bot By Ditzz'
+global.ytname = 'Anjayy' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
 let file = require.resolve(__filename)
